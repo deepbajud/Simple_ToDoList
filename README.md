@@ -12,7 +12,7 @@ This Android app provides a straightforward to-do list experience. The user inte
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 | <img src= "1.png" width="80%" height="70%"> | <img src= "2.png" width="80%" height="70%"> | <img src= "3.png" width="80%" height="70%"> |
 | <img src= "4.png" width="80%" height="70%"> | <img src= "5.png" width="80%" height="70%"> | <img src= "6.png" width="80%" height="70%"> |
-|  | ![bloggif_64f1c75753a9f](https://github.com/deepbajud/Joke_App/assets/118447327/33c282f8-0340-41a1-913a-086246167d7d) >  |
+|  |  ![bloggif_64f07c8cae6f4](https://github.com/deepbajud/Simple_ToDoList/assets/118447327/2451d286-bd50-4a9c-859e-c5da4955245a) |
 
 <!--## App-Preview
  <img 
@@ -35,4 +35,4 @@ This Android app provides a straightforward to-do list experience. The user inte
   width="30%"
   src="6.png"/>
 
-![bloggif_64f07c8cae6f4](https://github.com/deepbajud/Simple_ToDoList/assets/118447327/2451d286-bd50-4a9c-859e-c5da4955245a)
+
